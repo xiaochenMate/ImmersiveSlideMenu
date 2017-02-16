@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="totalheight">60dp</dimen>
+    <dimen name="halfheight">30dp</dimen>
+    <dimen name="home_title_bar_img_height">28.0dip</dimen>
+    <dimen name="home_title_bar_img_width">28.0dip</dimen>
+    <dimen name="bts_home_popup_btn_radius">18.0dip</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="line">1.0px</dimen>
+    <!-- 适配title的高度 -->
+    <dimen name="title_height">48dp</dimen>
+
+    <!-- 适配title中字体 -->
+    <dimen name="title_left">14sp</dimen>
+    <dimen name="title">20sp</dimen>
+
+    <!-- 所有界面中的分割线的高度 -->
+    <dimen name="dividing_line_height">0.5dp</dimen>
+
+    <!-- 左滑出之后主界面剩余的dip -->
+    <dimen name="slidingmenu_offset">70dp</dimen>
+    <dimen name="shadow_width">5dp</dimen>
+
+    <!-- 左滑出之后的上半部分的距离 -->
+    <dimen name="slidingmenu_header">184dp</dimen>
+    <dimen name="slidingmenu_header_area">44dp</dimen>
+    <dimen name="slidingmenu_footer">138dp</dimen>
+
+    <!-- 左滑出之后中用来编辑的行的高度 -->
+    <dimen name="slidingmenu_height">44dp</dimen>
+
+    <!-- 侧滑栏中的积分商城中的广告栏的高度 -->
+    <dimen name="slidingmenu_advertisement_subViewPage">97dp</dimen>
+
+    <!-- 主界面上半部分的距离 -->
+    <dimen name="main_header">255dp</dimen>
+    <dimen name="main_header_icon_left">22dp</dimen>
+    <dimen name="main_header_icon_right">22dp</dimen>
+    <dimen name="main_header_three_height">111dp</dimen>
+
+    <!-- 主界面下半部分的距离 -->
+    <dimen name="main_footer">49dp</dimen>
+
+    <!-- 主页轮播图的距离 -->
+    <dimen name="main_subViewPage">140dp</dimen>
+
+    <!-- 设置中的模块间距 -->
+    <dimen name="setting_module_height">5dp</dimen>
+    <dimen name="setting_relativeLayout_height">55dp</dimen>
+    <dimen name="setting_relativeLayout_height1">40dp</dimen>
+    <dimen name="setting_relativeLayout_height2">30dp</dimen>
+    <dimen name="setting_relativeLayout_height3">45dp</dimen>
+    <!-- 任务中每个任务的高度 -->
+    <dimen name="task_reward_relativelayout_height">64dp</dimen>
+    <dimen name="task_reward_relativelayout_height1">70dp</dimen>
+
+    <!-- rating_star的适配尺寸 -->
+    <dimen name="rating_bar_width">100dp</dimen>
+    <dimen name="rating_bar_height">100dp</dimen>
+
+    <!-- 收入和支出的item高度 -->
+    <dimen name="receipt_and_expenditure_height">44dp</dimen>
+
+    <!-- 添加银行卡中左边TestView的宽度 -->
+    <dimen name="add_bank_card_width">60dp</dimen>
+
+    <!-- 个人信息中上半部分的距离 -->
+    <dimen name="person_info_header_height">144dp</dimen>
+
+    <!-- 个人信息中的每行高度 -->
+    <dimen name="person_info_replace_height">44dp</dimen>
+
+    <!-- 个人 资料的认证信息 -->
+    <dimen name="authentication_info_width">240dp</dimen>
+    <dimen name="authentication_info_height">98dp</dimen>
+    <dimen name="authentication_info_marginTop">75dp</dimen>
+    <dimen name="authentication_info_4s_marginTop">55dp</dimen>
+    <dimen name="authentication_info_text_marginTop">60dp</dimen>
+
+    <!-- 4S店信息认证中的条目高度 -->
+    <dimen name="authentication_4s_relativelayout_height">44dp</dimen>
+
+    <!-- 车辆登记中的条目高度 -->
+    <dimen name="car_relativeLayout_height">44dp</dimen>
+
+    <!-- rating_star的适配尺寸 -->
+    <dimen name="apprating_bar_width">30dp</dimen>
+    <dimen name="apprating_bar_height">30dp</dimen>
+
+    <!-- 买车咨询的适配 -->
+    <dimen name="buy_car_marginTop_height">5dp</dimen>
+    <dimen name="buy_car_editview_height">125dp</dimen>
+    <dimen name="buy_car_rl_marginTop_height">35dp</dimen>
+
+    <!-- 特价车 -->
+    <dimen name="special_car_image_height">181dp</dimen>
+    <dimen name="special_car_foot_height">44dp</dimen>
+    <dimen name="special_car_item_distance">8dp</dimen>
+    <dimen name="special_car_subviewpager_height">137dp</dimen>
+
+    <!-- 组团试驾 -->
+    <dimen name="group_test_drive_subviewpager_height">137dp</dimen>
+
+    <!-- 支付收银台 -->
+    <dimen name="pay_cashier_relativelayout_height">44dp</dimen>
+
+    <!-- 组团试驾中的条目高度 -->
+    <dimen name="group_test_drive_height">200dp</dimen>
+    <dimen name="think_group_test_drive_height">200dp</dimen>
+
+    <!-- 所有应该用到的字体大小 -->
+    <dimen name="font1">10sp</dimen>
+    <dimen name="font2">11sp</dimen>
+    <dimen name="font3">12sp</dimen>
+    <dimen name="font4">13sp</dimen>
+    <dimen name="font5">14sp</dimen>
+    <dimen name="font6">15sp</dimen>
+    <dimen name="font7">16sp</dimen>
+    <dimen name="font8">17sp</dimen>
+    <dimen name="font9">18sp</dimen>
+    <dimen name="font10">19sp</dimen>
+    <dimen name="font11">20sp</dimen>
+    <dimen name="font12">21sp</dimen>
+    <dimen name="font13">22sp</dimen>
+    <dimen name="font14">23sp</dimen>
+    <dimen name="font15">24sp</dimen>
+    <dimen name="font16">25sp</dimen>
+    <dimen name="font17">26sp</dimen>
+    <dimen name="sp_smaller">12sp</dimen>
+    <dimen name="sp_small">13sp</dimen>
+    <dimen name="sp_common">16sp</dimen>
+    <dimen name="sp_big">18sp</dimen>
+    <dimen name="sp_bigger">20sp</dimen>
+    <dimen name="sp_biggest">22sp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp6">6dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp70">70dp</dimen>
+    <dimen name="dp80">80dp</dimen>
+    <dimen name="dp100">100dp</dimen>
+    <dimen name="dp120">120dp</dimen>
+    <dimen name="dp150">150dp</dimen>
+    <dimen name="dp180">180dp</dimen>
+    <dimen name="dp200">200dp</dimen>
+
+    <!-- activity的title高度 -->
+    <!-- dimen name="title_activity">44dp</dimen> -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+
+    <!-- 聊天界面的配置 -->
+    <dimen name="height_top_bar">46dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+
+    <!-- 微信支付 -->
+    <dimen name="LargeTextSize">16dp</dimen>
+    <dimen name="BasicTextSize">15dp</dimen>
+    <dimen name="TitleTextSize">18dp</dimen>
+    <dimen name="SmallTextSize">14dp</dimen>
+    <dimen name="SmallerTextSize">13dp</dimen>
+    <dimen name="LargestTextSize">30dp</dimen>
+    <dimen name="ChattingTextSize">16dp</dimen>
+    <dimen name="ChattingContentMinHeight">49dp</dimen>
+    <dimen name="PreferenceItemHeight">42dp</dimen>
+    <dimen name="ConversationItemHeight">58dp</dimen>
+    <dimen name="LargeAvatarSize">56dp</dimen>
+
+    <!-- 导航 -->
+
+    <dimen name="navibar_text_size">14sp</dimen>
+    <dimen name="navibar_margin_right">25dp</dimen>
+    <dimen name="navibar_margin_left">25dp</dimen>
+    <dimen name="navibar_margin_method">30dp</dimen>
+    <dimen name="navibar_start_left">40dp</dimen>
+    <dimen name="start_content_font_size">18sp</dimen>
+    <dimen name="navibar_margin_top">15dp</dimen>
+    <dimen name="navibar_edit_height">35dp</dimen>
+    <dimen name="navibar_button_height">40dp</dimen>
+    <dimen name="naviroute_navi_height">45dp</dimen>
+    <dimen name="navisetting_margin_bottom">5dp</dimen>
+    <dimen name="navisetting_subtext_size">20sp</dimen>
+    <dimen name="titletext_size">30sp</dimen>
+    <dimen name="margin_right">5dp</dimen>
+    <dimen name="margin_left">5dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="margin_bottom">5dp</dimen>
+    <dimen name="setting_margin_top">10dp</dimen>
+    <dimen name="setting_margin_bottom">10dp</dimen>
+    <dimen name="route_text_size">20sp</dimen>
+    <!-- 首页滑动解锁效果需要 -->
+
+
+    <!-- Size of alarm alert outer ring. -->
+    <dimen name="glowpadview_outerring_diameter">270dip</dimen>
+
+    <!-- Default target placement radius for GlowPadView. Should be 1/2 of outerring diameter. -->
+    <dimen name="glowpadview_target_placement_radius">135dip</dimen>
+
+    <!-- Default glow radius for GlowPadView -->
+    <dimen name="glowpadview_glow_radius">75dip</dimen>
+
+    <!-- Default distance beyond which GlowPadView snaps to the matching target -->
+    <dimen name="glowpadview_snap_margin">40dip</dimen>
+
+    <!-- Default distance from each snap target that GlowPadView considers a "hit" -->
+    <dimen name="glowpadview_inner_radius">15dip</dimen>
+    <dimen name="glowpadview_margin_bottom">-64dip</dimen>
+    <dimen name="glowpadview_margin_right">0dip</dimen>
+    <dimen name="charge_magrintop">5.0dip</dimen>
+
+
+    <dimen name="px5">5px</dimen>
+    <dimen name="px10">10px</dimen>
+    <dimen name="px14">14px</dimen>
+    <dimen name="px15">15px</dimen>
+    <dimen name="px20">20px</dimen>
+    <dimen name="px25">25px</dimen>
+    <dimen name="px26">26px</dimen>
+    <dimen name="px30">30px</dimen>
+    <dimen name="px32">32px</dimen>
+    <dimen name="px35">35px</dimen>
+    <dimen name="px40">40px</dimen>
+    <dimen name="px45">45px</dimen>
+    <dimen name="px50">50px</dimen>
+    <dimen name="px60">60px</dimen>
+    <dimen name="px70">70px</dimen>
+    <dimen name="px80">80px</dimen>
+    <dimen name="px100">100px</dimen>
+    <dimen name="px120">120px</dimen>
+    <dimen name="px140">140px</dimen>
+    <dimen name="px150">150px</dimen>
+    <dimen name="px180">180px</dimen>
+    <dimen name="px200">200px</dimen>
+    <dimen name="px220">220px</dimen>
+    <dimen name="px250">250px</dimen>
+    <dimen name="px280">280px</dimen>
+    <dimen name="px300">300px</dimen>
+    <dimen name="px350">350px</dimen>
+    <dimen name="px400">400px</dimen>
+
+
+</resources>

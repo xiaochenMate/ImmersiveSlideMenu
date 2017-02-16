@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bts_transparent">#00000000</color>
+    <color name="menu_bg_half_transparent">#660a0b0d</color>
+    <color name="rippelColor">#000099CC</color>
+    <color name="pop_select_pile_et_input">#ffeeeeee</color>
+    <color name="new_main_text_nor">#ff62a607</color>
+    <color name="power_image_black">#aa000000</color>
+    <color name="line">#ffd1d1d1</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#ff72bc0f</color>
+    <color name="green_67B34F">#67B34F</color>
+    <color name="blue">#516EAC</color>
+    <color name="black">#333333</color>
+    <color name="deep_black">#000000</color>
+    <color name="default_color">#333333</color>
+    <color name="find_color_white">#fff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#fdaa06</color>
+    <color name="pink">#FF00FF</color>
+    <color name="half_transparent">#b0000000</color>
+    <color name="half_transparent1">#70000000</color>
+    <color name="bg_color">#F1F1F1</color>
+    <color name="blood_oxygen_bg_color">#969696</color>
+    <color name="gray">#cccccc</color>
+    <color name="dack_gray">#333333</color>
+    <color name="text_color">#7F7F7F</color>
+    <color name="btn_normal_text_color">#e2e2e2</color>
+    <!-- 所有的用于提交的大按钮的颜色 -->
+    <color name="btn_bg_green">#23AC38</color>
+    <!-- 所有的用于不可提交的大按钮的颜色 -->
+    <color name="btn_bg_gray">#9FA0A0</color>
+    <color name="deep_blue">#5C6F98</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="person_card_bg">#C5DB6B</color>
+    <color name="myorange">#F9CB76</color>
+    <!-- 绿色 -->
+    <color name="green_00A276">#00A276</color>
+    <color name="user_detail_public_bg">#f3f3f3</color>
+    <color name="user_list_public_bg">#e5e6e7</color>
+    <color name="normal_text">#FF758493</color>
+    <color name="person_authentication_bg">#F39800</color>
+    <color name="four_s_authentication_bg">#8EC31F</color>
+    <color name="line_bg">#D3D4D4</color>
+    <color name="text_yellow">#F39300</color>
+    <color name="item_title_bg">#EFEFEF</color>
+    <!-- 标题栏修改为灰色 -->
+    <color name="title_gray_f6f6f6">#f6f6f6</color>
+    <!-- 背景修改为灰色 -->
+    <color name="backgroud_gray_f1f1f1">#f8f8f8</color>
+    <!-- 蓝色 -->
+    <!--<color name="blue_2494e4">#26acdf</color>-->
+    <color name="blue_2494e4">#018bef</color>
+    <color name="blue_1782ce">#1782ce</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+</resources>
