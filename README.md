@@ -1,4 +1,13 @@
 <p>
+<span style="font-size:18px">demo gif效果图：</span>
+</p>
+<p>
+<img src="http://img.blog.csdn.net/20170216154748154?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTQ1ODMzOTM0MQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" width="160" height="240" alt="" style="font-weight:bold" /><br />
+
+</p>
+<p>
+
+<p>
 	<span style="font-size:18px"><span style="white-space:pre"></span>前段时间做项目 用到了因为SlidingMenu发现<span style="font-size:18px">SlidingMenu无法实现沉浸式状态栏 当时项目时间紧张 没来的及研究源码 故只改了状态栏的颜色，今天有空在完善项目的时候 感觉只修改状态栏颜色是万万达不到想要的效果 故研究了下<span style="font-size:18px">SlidingMenu的源码。看了源码才发现 要实现<span style="font-size:18px">SlidingMenu沉浸式状态栏 只需要把<span style="color:#ff0000">SlidingMenu.java</span>源码里的一个状态<br />
 	修改下!</span></span></span></span>
 </p>
